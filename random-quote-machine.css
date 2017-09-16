@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+.verse-box {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 30px;
+  background-color: white;
+  width: 45%;
+  height: auto;
+}
+
+#verse {
+  font-size: 20px;
+}
+
+#reference {
+  font-size: 16px;
+  text-align: right;
+}
